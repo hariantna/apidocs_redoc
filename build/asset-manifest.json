@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/apidocs_redoc/static/css/main.073c9b0a.css",
-    "main.js": "/apidocs_redoc/static/js/main.b393b004.js",
-    "static/js/787.2751120d.chunk.js": "/apidocs_redoc/static/js/787.2751120d.chunk.js",
-    "index.html": "/apidocs_redoc/index.html",
-    "main.073c9b0a.css.map": "/apidocs_redoc/static/css/main.073c9b0a.css.map",
-    "main.b393b004.js.map": "/apidocs_redoc/static/js/main.b393b004.js.map",
-    "787.2751120d.chunk.js.map": "/apidocs_redoc/static/js/787.2751120d.chunk.js.map"
+    "main.css": "/apidocs.antna.co.in/static/css/main.073c9b0a.css",
+    "main.js": "/apidocs.antna.co.in/static/js/main.47482063.js",
+    "static/js/787.2751120d.chunk.js": "/apidocs.antna.co.in/static/js/787.2751120d.chunk.js",
+    "index.html": "/apidocs.antna.co.in/index.html",
+    "main.073c9b0a.css.map": "/apidocs.antna.co.in/static/css/main.073c9b0a.css.map",
+    "main.47482063.js.map": "/apidocs.antna.co.in/static/js/main.47482063.js.map",
+    "787.2751120d.chunk.js.map": "/apidocs.antna.co.in/static/js/787.2751120d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b393b004.js"
+    "static/js/main.47482063.js"
   ]
 }

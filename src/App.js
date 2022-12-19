@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
       <RedocStandalone
-        spec={"https://apidocs.antna.co.in/swagger.yaml"}
+        spec={"https://hariantna.github.io/ice-antna-api-only-page/swagger.yaml"}
         options={{
           nativeScrollbars: true,
           theme: { colors: { primary: { main: "#0065fc" } } },
